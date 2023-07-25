@@ -1,18 +1,20 @@
-## Oiii! Eu sou o Matheus Madrid
- <div>
-  <a href="https://github.com/mthmadrid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mthmadrid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthmadrid&layout=compact&langs_count=16&theme=dark"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Me+chamo+Matheus+Madrid;Tenho+18+anos;Sou+de+São+Paulo,+Brasil;Estou+no+2ºSemestre+de+Ciência+da+Computação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mthmadrid&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Madrid github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthmadrid&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+
+   
+### Estudando no momento:
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ##
 
