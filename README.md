@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Estudando no momento:</h2>
+<h3 align="left">Estudando no momento:</h3>
 
 ###
 
