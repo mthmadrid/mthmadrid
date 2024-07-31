@@ -9,7 +9,8 @@
 
    
 ### Estudando no momento:
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
+![Java]([https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00](https://img.shields.io/pypi/pyversions/:packageName
+))&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
