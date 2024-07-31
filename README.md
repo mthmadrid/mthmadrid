@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">Estudando no momento:</h3>
+<h3 align="left">Ferramentas e Linguagens:</h3>
 
 ###
 
